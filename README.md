@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm DIndin Abduloh 👋
 
-Welcome to my GitHub profile! I'm a full-stack developer with a passion for web and application development.
+Welcome to my GitHub profile! I'm a full-stack developer with expertise in JavaScript, PHP, and Python programming languages. I'm proficient in various frameworks such as Laravel, FastAPI, Vue.js, React.js, and Ext JS. Additionally, I'm experienced in working with frontend libraries like Tailwind CSS, Bulma, and Bootstrap. My toolkit also includes Docker for containerization and I have extensive knowledge of databases including PostgreSQL, MySQL, and MongoDB.
 
 ## About Me
 
@@ -21,62 +21,37 @@ Welcome to my GitHub profile! I'm a full-stack developer with a passion for web 
 - **Full Stack Engineer**
   - Jul 2023 - Present · 9 mos
   - Bandung, Jawa Barat, Indonesia
-  - Technologies: CodeIgniter, Laravel
+  - Technologies: Laravel, Docker, PostgreSQL
 
 - **Full Stack Engineer**
   - Apr 2023 - Jul 2023 · 4 mos
   - Bandung, Jawa Barat, Indonesia
-  - Technologies: PostgreSQL, Ext JS
+  - Technologies: Ext JS, PHP, MySQL
 
 ### Roketin
 - **Frontend Developer (Contract)**
   - May 2022 - Apr 2023 · 1 yr
   - Bandung, Jawa Barat, Indonesia
-  - Technologies: Angular
+  - Technologies: Vue.js, Tailwind CSS
 
 ### PT. Sigma Cipta Caraka (Telkomsigma)
 - **Frontend Developer (Contract)**
   - Sep 2021 - May 2022 · 9 mos
   - Bandung, Jawa Barat, Indonesia
+  - Technologies: React.js, Bootstrap, Docker
 
 ### Sahaware Teknologi Indonesia
 - **Junior Full-stack Developer (Full-time)**
   - Jul 2021 - Sep 2021 · 3 mos
   - Bandung, Jawa Barat, Indonesia
+  - Technologies: FastAPI, MongoDB, Vue.js
 
 ### Aplysit Corp
 - **Frontend Developer (Part-time)**
   - Nov 2020 - Jul 2021 · 9 mos
   - Bandung, Jawa Barat, Indonesia
+  - Technologies: JavaScript, Bulma, Docker
 
-## Languages and Tools
-
-### Programming Languages:
-- JavaScript (Node.js, React)
-- Python
-- HTML5
-- CSS3
-
-### Databases:
-- MongoDB
-- MySQL
-- PostgreSQL
-
-### Tools and Frameworks:
-- Express.js
-- Flask
-- Bootstrap
-- Docker
-
-## GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
-
-## Recent Projects
-
-- [Project Name 1](link): Brief description.
-- [Project Name 2](link): Brief description.
-- [Project Name 3](link): Brief description.
 
 Feel free to explore my projects and star them if you find anything interesting!
 
