@@ -1,58 +1,97 @@
-# Hello, I'm DIndin Abduloh 👋
+<h1 align="center">Hey there! I'm Dindin 👋</h1>
+<p align="center">
+  Full-Stack Dev ✨ | Code Enthusiast 💻 | Lifelong Learner 📚
+</p>
 
-Welcome to my GitHub profile! I'm a full-stack developer with expertise in JavaScript, PHP, and Python programming languages. I'm proficient in various frameworks such as Laravel, FastAPI, Vue.js, React.js, and Ext JS. Additionally, I'm experienced in working with frontend libraries like Tailwind CSS, Bulma, and Bootstrap. My toolkit also includes Docker for containerization and I have extensive knowledge of databases including PostgreSQL, MySQL, and MongoDB.
+<p align="center">
+  <a href="mailto:dindinabduloh.jbs@gmail.com"><img src="https://img.shields.io/badge/Email-dindinabduloh.jbs@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/dindin-abduloh"><img src="https://img.shields.io/badge/LinkedIn-DindinAbduloh-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/username"><img src="https://img.shields.io/github/followers/username?label=Follow&style=social"></a>
+</p>
 
-## About Me
+---
 
-- 💼 Currently working as a full-stack developer.
-- 🌱 I enjoy learning new technologies and continuously improving my skills.
-- 👯 Interested in collaborating on open-source projects.
-- 📫 You can reach me via email dindinabduloh.jbs@gmail.com for discussions or collaborations.
+## 🧑‍💻 A little about me...
 
-## Education
+Hey! I'm Dindin from Bandung, Indonesia.  
+I love building cool web stuff — from small UI tweaks to full-blown apps.  
 
-- **Bachelor's degree in Information Systems**
-  - Universitas Informatika dan Bisnis Indonesia
-  - Jan 2017 - Nov 2022
+🛠️ Mostly I work with:
+- **JavaScript**, **PHP**, **Python**
+- **Laravel**, **Vue**, **React**, **FastAPI**, **Ext JS**
+- **PostgreSQL**, **MySQL**, **MongoDB**
+- **Tailwind**, **Bootstrap**, and sometimes **Bulma**  
+- And yes, I Dockerize almost everything 🐳
 
-## Experience
+---
 
-### RS Muhammadiyah Bandung
-- **Full Stack Engineer**
-  - Jul 2023 - Present · 9 mos
-  - Bandung, Jawa Barat, Indonesia
-  - Technologies: Laravel, Docker, PostgreSQL
+## 🔭 What I'm up to
 
-- **Full Stack Engineer**
-  - Apr 2023 - Jul 2023 · 4 mos
-  - Bandung, Jawa Barat, Indonesia
-  - Technologies: Ext JS, PHP, MySQL
+- Working as a **Full-Stack Engineer** at RS Muhammadiyah Bandung  
+- Learning new tech whenever I get the chance  
+- Open to side projects, collabs, or just good dev talks
 
-### Roketin
-- **Frontend Developer (Contract)**
-  - May 2022 - Apr 2023 · 1 yr
-  - Bandung, Jawa Barat, Indonesia
-  - Technologies: Vue.js, Tailwind CSS
+---
 
-### PT. Sigma Cipta Caraka (Telkomsigma)
-- **Frontend Developer (Contract)**
-  - Sep 2021 - May 2022 · 9 mos
-  - Bandung, Jawa Barat, Indonesia
-  - Technologies: React.js, Bootstrap, Docker
+## 💼 My Dev Journey
 
-### Sahaware Teknologi Indonesia
-- **Junior Full-stack Developer (Full-time)**
-  - Jul 2021 - Sep 2021 · 3 mos
-  - Bandung, Jawa Barat, Indonesia
-  - Technologies: FastAPI, MongoDB, Vue.js
+**🩺 RS Muhammadiyah Bandung**  
+🧩 Full Stack Engineer — *Jul 2023 - Now*  
+🔧 Laravel, Docker, PostgreSQL
 
-### Aplysit Corp
-- **Frontend Developer (Part-time)**
-  - Nov 2020 - Jul 2021 · 9 mos
-  - Bandung, Jawa Barat, Indonesia
-  - Technologies: JavaScript, Bulma, Docker
+**🩺 RS Muhammadiyah Bandung**  
+🧩 Full Stack Engineer — *Apr 2023 - Jul 2023*  
+🔧 Ext JS, PHP, MySQL
 
+**🧠 Roketin** *(Contract)*  
+🎨 Frontend Developer — *May 2022 - Apr 2023*  
+🔧 Vue.js, Tailwind CSS
 
-Feel free to explore my projects and star them if you find anything interesting!
+**📡 Telkomsigma** *(Contract)*  
+🎨 Frontend Developer — *Sep 2021 - May 2022*  
+🔧 React.js, Bootstrap, Docker
 
-Thanks for visiting my profile. 😊
+**💻 Sahaware Teknologi Indonesia**  
+🔧 Junior Full-Stack Dev — *Jul 2021 - Sep 2021*  
+Tech: FastAPI, MongoDB, Vue.js
+
+**🌱 Aplysit Corp** *(Part-time)*  
+🎨 Frontend Dev — *Nov 2020 - Jul 2021*  
+Tech: Vanilla JS, Bulma, Docker
+
+---
+
+## 🎓 Education
+
+**Universitas Informatika dan Bisnis Indonesia**  
+📚 Bachelor’s in Information Systems  
+🗓️ Jan 2017 – Nov 2022
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=gruvbox" alt="Dindin's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=gruvbox" alt="GitHub Streak" width="48%">
+</p>
+
+---
+
+## 🌟 Highlight Projects
+
+Here are a few things I’ve been tinkering with:
+
+- 🔧 [Laravel + Vue HRIS System](https://github.com/your-username/project-hris)
+- 🧪 [FastAPI + MongoDB Template](https://github.com/your-username/project-fastapi)
+- 🖼️ [Simple Frontend Design System](https://github.com/your-username/project-ui)
+
+---
+
+## ☕ Let's Connect
+
+Have something in mind? Collaboration, freelance, or just wanna say hi — feel free to reach out at [dindinabduloh.jbs@gmail.com](mailto:dindinabduloh.jbs@gmail.com).
+
+---
+
+> Thanks for stopping by! If you like my work, consider leaving a ⭐ on any of my repos. See you around! 😄
