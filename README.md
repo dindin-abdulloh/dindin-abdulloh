@@ -37,11 +37,7 @@ I love building cool web stuff — from small UI tweaks to full-blown apps.
 
 **🩺 RS Muhammadiyah Bandung**  
 🧩 Full Stack Engineer — *Jul 2023 - Now*  
-🔧 Laravel, Docker, PostgreSQL
-
-**🩺 RS Muhammadiyah Bandung**  
-🧩 Full Stack Engineer — *Apr 2023 - Jul 2023*  
-🔧 Ext JS, PHP, MySQL
+🔧 Laravel, Docker, PostgreSQL, Ext JS, PHP, MySQL
 
 **🧠 Roketin** *(Contract)*  
 🎨 Frontend Developer — *May 2022 - Apr 2023*  
@@ -67,26 +63,7 @@ Tech: Vanilla JS, Bulma, Docker
 📚 Bachelor’s in Information Systems  
 🗓️ Jan 2017 – Nov 2022
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=gruvbox" alt="Dindin's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=gruvbox" alt="GitHub Streak" width="48%">
-</p>
-
----
-
-## 🌟 Highlight Projects
-
-Here are a few things I’ve been tinkering with:
-
-- 🔧 [Laravel + Vue HRIS System](https://github.com/your-username/project-hris)
-- 🧪 [FastAPI + MongoDB Template](https://github.com/your-username/project-fastapi)
-- 🖼️ [Simple Frontend Design System](https://github.com/your-username/project-ui)
-
----
+--- 
 
 ## ☕ Let's Connect
 
