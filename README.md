@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a full-stack developer with expertise in JavaS
 - 💼 Currently working as a full-stack developer.
 - 🌱 I enjoy learning new technologies and continuously improving my skills.
 - 👯 Interested in collaborating on open-source projects.
-- 📫 You can reach me via dindinabduloh.jbs@gmail.com for discussions or collaborations.
+- 📫 You can reach me via email dindinabduloh.jbs@gmail.com for discussions or collaborations.
 
 ## Education
 
