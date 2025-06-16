@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:dindinabduloh.jbs@gmail.com"><img src="https://img.shields.io/badge/Email-dindinabduloh.jbs@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:dindin.abduloh11@gmail.com"><img src="https://img.shields.io/badge/Email-dindin.abduloh11@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/dindin-abdulloh/"><img src="https://img.shields.io/badge/LinkedIn-DindinAbduloh-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
